@@ -17,8 +17,11 @@ The project helps in visualizing path and how diﬀerent algorithms such as BFS,
 -Breadth first search
 
 
+https://user-images.githubusercontent.com/82313146/172839154-82c659d8-cdb6-4a8d-ad9d-f9b640fa74a3.mp4
 
-https://user-images.githubusercontent.com/82313146/172837149-06d313c4-2432-45af-9fba-2f4ebaa2dc06.mp4
+
+
+
 
 
 # Instructions
